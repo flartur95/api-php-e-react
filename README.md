@@ -9,4 +9,4 @@ Primeira vez que faço uma API REST com PHP e primeira vez que utilizo mesmo o R
 
 Também criei um banco com nome cruddb.
 
-Os scripts da criação da tabela e o insert de contatos estão no (script-db).
+Os scripts da criação da tabela e o insert de contatos estão no [script-db].
