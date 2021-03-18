@@ -3,7 +3,7 @@ Na pasta [public](https://github.com/flartur95/api-php-e-react/tree/main/public)
 
 Na src tem o [display em react](https://github.com/flartur95/api-php-e-react/blob/main/src/index.js) da função de leitura dos contatos.
 
-A app não está completa e ainda não está funcionando. 
+A app não está completa e não está funcional. 
 
 Primeira vez que faço uma API REST com PHP e primeira vez que utilizo de verdade o React.
 
