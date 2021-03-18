@@ -9,4 +9,4 @@ Primeira vez que faço uma API REST com PHP e primeira vez que utilizo de verdad
 
 Também criei um banco com nome cruddb.
 
-Os scripts da criação da tabela e o insert de contatos estão no [aqui](https://github.com/flartur95/api-php-e-react/blob/main/scripts-db).
+Os scripts da criação da tabela e o insert de contatos estão [aqui](https://github.com/flartur95/api-php-e-react/blob/main/scripts-db).
